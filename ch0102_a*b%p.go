@@ -4,7 +4,7 @@ package acmguide
 //
 // 例题: ch0102/acmwing90 https://ac.nowcoder.com/acm/contest/996/C
 //
-//	求 a 乘 b 对 p 取模的值，其中 1≤a,b,p≤10181≤a,b,p≤1018。
+//	求 a 乘 b 对 p 取模的值，其中 1 <= a,b,p <= 10^18
 //
 // (a*b)%p = ((a%p)*(b%p)))%p
 // (a+b)%p = ((a%p)+(b%p))%p
